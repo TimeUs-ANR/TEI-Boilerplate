@@ -4,7 +4,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>AD69 9M5, page 1 - Transcription</title>
+            <title>AD69 9M5, pages 1 à 20 - Transcription</title>
             <editor>Manuela Martini</editor>
             <respStmt>
                <name>charles.riondet@inria.fr</name>, <resp>créateur⋅rice du document Transkribus (TRP).</resp>
@@ -29,15 +29,15 @@
    </teiHeader>
    <text>
       <body>
-         <pb n="1" facs="images/AD699M5_1.jpg"/>
+         <pb n="1" facs="../images/AD699M5_1.jpg"/>
          <p>
                     <lb n="N001"/>Archives 
                     <lb n="N002"/>du département du Rhône 
                     <lb n="N003"/>9M5</p>
-         <pb n="2" facs="images/AD699M5_2.jpg"/>
+         <pb n="2" facs="../images/AD699M5_2.jpg"/>
          <p>
                     <lb n="N001"/>Grève 1894-95 </p>
-         <pb n="3" facs="images/AD699M5_3.jpg"/>
+         <pb n="3" facs="../images/AD699M5_3.jpg"/>
          <p>
                     <lb n="N001"/>du 22 Décembre 1894
                     <lb n="N002"/>Préfecture du Rhône 
@@ -101,7 +101,7 @@
                     <lb n="N027"/>compter. Elle a ajouté qu'elle s'était rendue 
                     <lb n="N028"/>à l'atelier pour prendre les objets qui lui 
                     <lb n="N029"/>appartenaient et qu'elle avait remarqué que</p>
-         <pb n="4" facs="images/AD699M5_4.jpg"/>
+         <pb n="4" facs="../images/AD699M5_4.jpg"/>
          <p>
                     <lb n="N001"/>près des 3/4 des <rs type="occupation">
                <choice>
@@ -134,7 +134,7 @@
             </rs> est précaire, mais que les 
                     <lb n="N008"/>grévistes <rs type="revenue" rend="multiline">pouvaient toucher <rs type="duration">tous les soirs</rs> la somme </rs>
                     <lb n="N009"/>
-            <rs type="revenue" rend="multiline">de <measure>1f50</measure>
+            <rs type="revenue" rend="multiline">de <measure type="sum">1f50</measure>
             </rs> au <placeName rend="multiline">siège du <orgName rend="multiline">syndicat des ouvriers tisseurs</orgName>
             </placeName>
                     <lb n="N010"/>
@@ -159,14 +159,14 @@
                   <reg/>
                </choice>
             </rs> grévistes qui 
-                    <lb n="N018"/>ont repris le travail avaient su <rs type="revenue" rend="multiline">toucher <measure>1f50</measure> 
+                    <lb n="N018"/>ont repris le travail avaient su <rs type="revenue" rend="multiline">toucher <measure type="sum">1f50</measure> 
                <rs type="duration" rend="multiline">par</rs>
             </rs>
                     <lb n="N019"/>
             <rs type="duration" rend="multiline">
                <rs type="revenue" rend="multiline">jour</rs>
                <rs type="revenue" rend="multiline"/>
-            </rs>, elles n'auraient pas travaillé et qu'il fallait <rs type="revenue" rend="multiline"/>, elles n'auraient pas travaillé et qu'il fallait 
+            </rs>, elles n'auraient pas travaillé et qu'il fallait <rs type="revenue" rend="multiline"/>, 
                     <lb n="N020"/>les engager à cesser le travail en les informant 
                     <lb n="N021"/>de l'<rs type="indemnité syndicale">indemnité </rs>qui leur est allouée. 
                     <lb n="N022"/>Il invite les grévistes à se réunir aujourd'hui 
@@ -183,7 +183,7 @@
                     <lb n="N028"/>Le n<hi rend="fontSize:0.0; kerning:0; superscript:true;">é</hi> 
             <persName>Beau</persName>, dit qu'il se rendra à 
                     <lb n="N029"/>cette réunion et apportera les adresses des usines du  </p>
-         <pb n="5" facs="images/AD699M5_5.jpg"/>
+         <pb n="5" facs="../images/AD699M5_5.jpg"/>
          <p>
                     <lb n="N001"/>tissage mécanique, il ajoute que les grévistes
                     <lb n="N002"/>devront faire des quêtes dans les autres corporations 
@@ -209,7 +209,7 @@
                     <lb n="N016"/>
             <persName>L. Perny</persName>
          </p>
-         <pb n="6" facs="images/AD699M5_6.jpg"/>
+         <pb n="6" facs="../images/AD699M5_6.jpg"/>
          <p>
                     <lb n="N001"/>Préfecture du Rhône
                     <lb n="N002"/>Gardien de la paix
@@ -229,7 +229,7 @@
                     <lb n="N010"/>
             <persName>J. Geay</persName>
          </p>
-         <pb n="8" facs="images/AD699M5_8.jpg"/>
+         <pb n="8" facs="../images/AD699M5_8.jpg"/>
          <p>
                     <lb n="N001"/>commencées.
                     <lb n="N002"/>Les <rs type="occupation">
@@ -333,7 +333,7 @@
             </rs>
                     <lb n="N029"/>ces derniers rejetaient toute polémique par la Presse
                     <lb n="N030"/>au moyen de discussions et qu'il était autorisé à</p>
-         <pb n="9" facs="images/AD699M5_8.jpg"/>
+         <pb n="9" facs="../images/AD699M5_8.jpg"/>
          <p>
                     <lb n="N001"/>décliner toute immixtion d'étrangers et à désapprouver
                     <lb n="N002"/>l'article du "Nouveau Lyon"
@@ -369,7 +369,7 @@
                     <lb n="N011"/>
             <persName>L. Perny</persName> 
          </p>
-         <pb n="10" facs="images/AD699M5_10.jpg"/>
+         <pb n="10" facs="../images/AD699M5_10.jpg"/>
          <p>
                     <lb n="N001"/>
             <orgName>Journal "Le Nouveau Lyon"</orgName> du <date month="0" day="0" year="0">12 Décembre 1894</date>
@@ -554,7 +554,7 @@
                     <lb n="N061"/>tous les agissements de ses ennemis
                     <lb n="N062"/>du dehors, il faut ou se démettre ou
                     <lb n="N063"/>se soumettre.</p>
-         <pb n="11" facs="images/AD699M5_11.jpg"/>
+         <pb n="11" facs="../images/AD699M5_11.jpg"/>
          <p>
                     <lb n="N001"/>Préfecture du Rhône 
                     <lb n="N002"/>Minute
@@ -643,7 +643,7 @@
                     <lb n="N010"/>
             <bibl rend="multiline">du tissage Lyonnais</bibl>
          </p>
-         <pb n="12" facs="images/AD699M5_12.jpg"/>
+         <pb n="12" facs="../images/AD699M5_12.jpg"/>
          <p>
                     <lb n="N001"/>dont <rs type="revenue" rend="multiline">les prix, de 30% plus élévés que ceux </rs>
                     <lb n="N002"/>
@@ -711,7 +711,7 @@
                </choice>
             </rs>" ont bientôt pris part au 
                     <lb n="N022"/>mouvement de revendication et ont, de leur  </p>
-         <pb n="13" facs="images/AD699M5_13.jpg"/>
+         <pb n="13" facs="../images/AD699M5_13.jpg"/>
          <p>
                     <lb n="N001"/>côté, adopté le procédé d'une série de 
                     <lb n="N002"/>mises à l'index successives pour un certain
@@ -761,7 +761,7 @@
                     <lb n="N020"/>Agréez.... la plus
                     <lb n="N021"/>
          </p>
-         <pb n="14" facs="images/AD699M5_14.jpg"/>
+         <pb n="14" facs="../images/AD699M5_14.jpg"/>
          <p>
                     <lb n="N001"/>
             <date>20 Décembre</date>
@@ -839,7 +839,7 @@
                <bibl type="document">tarif de 1885</bibl>
             </rs>
             <bibl type="document"/>, en ce qui concerne les façonnés. Cette </p>
-         <pb n="15" facs="images/AD699M5_15.jpg"/>
+         <pb n="15" facs="../images/AD699M5_15.jpg"/>
          <p>
                     <lb n="N001"/>Cette maison ne s'est pas encore prononcée sur les 
                     <lb n="N002"/>unis, par ce motif, que d'autres dans son genre font la
@@ -925,7 +925,7 @@
                     <lb n="N027"/>que la grande famille ouvrière soyeuse discute et 
                     <lb n="N028"/>délibère si elle doit vivre à la campagne où à la 
                     <lb n="N029"/>ville.</p>
-         <pb n="16" facs="images/AD699M5_16.jpg"/>
+         <pb n="16" facs="../images/AD699M5_16.jpg"/>
          <p>
                     <lb n="N001"/>Le citoyen <persName sex="h">Polo</persName>, annonce qu'il apprend qui dans une 
                     <lb n="N002"/>réunion tenu pour la <orgName>Maison Gindre et Cie</orgName>, la grève de cette
@@ -970,10 +970,10 @@
                     <lb n="N028"/>au <orgName>Progrès</orgName> a annoncé de la part de <rs type="matStatus">Monsieur</rs> 
             <persName sex="h">Delaroche</persName> 
          </p>
-         <pb n="17" facs="images/AD699M5_17.jpg"/>
+         <pb n="17" facs="../images/AD699M5_17.jpg"/>
          <p>
                     <lb n="N001"/>la mise à la disposition des grévistes d'une 
-                    <lb n="N002"/>somme de <measure>
+                    <lb n="N002"/>somme de <measure type="sum">
                <certainty cert="low">cinq cents francs<!--Comment préciser le type de cette "rémunération" ?--></certainty>
                <certainty cert="low"/>
             </measure> et l'ouverture<certainty cert="low"/> et l'ouverture
@@ -984,7 +984,7 @@
                     <lb n="N007"/>Le <rs type="matStatus">Sieur</rs> 
             <persName sex="h">Simon</persName>, rédacteur, au Journal "Le 
                     <lb n="N008"/>Peuple" a également annoncé à l'assemblée 
-                    <lb n="N009"/>qu'une somme de <measure>
+                    <lb n="N009"/>qu'une somme de <measure type="sum">
                <certainty cert="low">500 francs<!--Comment préciser le type de cette "rémunération" ?--></certainty>
                <certainty cert="low"/>
             </measure> serait fournie<certainty cert="low"/> serait fournie
@@ -994,7 +994,7 @@
                     <lb n="N013"/>
             <persName sex="h">Bellua</persName>
          </p>
-         <pb n="18" facs="images/AD699M5_18.jpg"/>
+         <pb n="18" facs="../images/AD699M5_18.jpg"/>
          <p>
                     <lb n="N001"/>du 20 décembre 1894
                     <lb n="N002"/>Mouvement des tisseurs
@@ -1057,7 +1057,7 @@
                     <lb n="N028"/>La mise à l'index de la <orgName rend="multiline">maison </orgName>
                     <lb n="N029"/>
             <orgName rend="multiline">Gindre</orgName> a été votée hier soir dans une  </p>
-         <pb n="19" facs="images/AD699M5_19.jpg"/>
+         <pb n="19" facs="../images/AD699M5_19.jpg"/>
          <p>
                     <lb n="N001"/>réunion à laquelle assistaient exclusivement 
                     <lb n="N002"/>150 <rs type="occupation">
@@ -1072,7 +1072,7 @@
                     <lb n="N005"/>
             <persName sex="h">L. Perny</persName> 
          </p>
-         <pb n="20" facs="images/AD699M5_20.jpg"/>
+         <pb n="20" facs="../images/AD699M5_20.jpg"/>
          <p>
                     <lb n="N001"/>du 20 Décembre 1894
                     <lb n="N002"/>Préfecture du Rhône 
@@ -1133,10 +1133,10 @@
                      <orig>ouvrières</orig>
                      <reg/>
                   </choice>
-               </rs>, <measure rend="multiline">2f, </measure>
+               </rs>, <measure type="sum" rend="multiline">2f, </measure>
             </rs>
                     <lb n="N018"/>
-            <measure type="absolu" rend="multiline">
+            <measure type="sum" subtype="absolu" rend="multiline">
                <rs type="revenue" rend="multiline">26</rs>
             </measure>
             <rs type="revenue" rend="multiline"/>. pendant le mois dernier. 
@@ -1149,11 +1149,11 @@
                      <orig>ouvrières</orig>
                      <reg/>
                   </choice>
-               </rs>, <measure>3f01</measure>
+               </rs>, <measure type="sum">3f01</measure>
             </rs>
                     <lb n="N021"/>Ce qui donne une <rs type="revenue" rend="multiline">moyenne </rs>
                     <lb n="N022"/>
-            <rs type="revenue" rend="multiline">de <rs type="revenue-type">salaire journalier</rs> de <measure type="absolu">2f68</measure>
+            <rs type="revenue" rend="multiline">de <rs type="revenue-type">salaire journalier</rs> de <measure type="sum" subtype="absolu">2f68</measure>
             </rs>. 
                     <lb n="N023"/>Les heures d'entrées et de sorties
                     <lb n="N024"/> sont exactement les suivantes : 
